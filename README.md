@@ -2,8 +2,9 @@
   Portfolio Website - v2.0<br/>
   <a href="https://afzalportfolio.vercel.app/" target="_blank">afzal.tech</a>
 </h2>
+
 <div align="center">
-  <img alt="Demo" src=".Screenshot 2025-06-26 112820.png" />
+  <img alt="Demo" src="./Images/Screenshot%202025-06-26%20112820.png" />
 </div>
 
 <br/>
